@@ -1,6 +1,6 @@
 # Eliú - Administração de Igrejas Evangélicas
 
-#### Atualização da versão em PHP 5.6 - [Igreja](https://github.com/hiltonbruce/Igreja)
+#### Atualização da versão da [Igreja](https://github.com/hiltonbruce/Igreja) em PHP 5.6 para Laravel 8
 
 ## Implementações
 
